@@ -1,13 +1,11 @@
-# [DIALLO Mamadou Al]
-![Image de profil](lien-vers-votre-image-de-profil)
-
-Bonjour ! 👋 Je suis Mad, étudiant en Licence 3 Informatique à l'Université du Havre.
+# DIALLO Mamadou Al
+<img src="https://github.com/MamadouAl/MamadouAl/blob/main/public.avif" alt="Image de profil" width="150" height="150"> Bonjour ! 👋 Je suis Mad, étudiant en Licence 3 Informatique à l'Université du Havre.
 
 ## À propos de moi
 
 - 💻 Passionné par l'informatique et la programmation.
-- 🌐 Compétences : HTML/CSS, Java, PHP, C, Algorithmique etc.
-- 📚 Actuellement en train d'apprendre [nom de la technologie ou du langage que vous étudiez actuellement].
+- 🌐 Compétences : HTML/CSS, Java, PHP, C, MySQL, PostgreSQL, Algorithmique etc.
+- 📚 Actuellement en train d'apprendre [...].
 - 🤝 Ouvert aux collaborations sur des projets passionnants.
 - 📫 Vous pouvez me contacter à mamadou-aliou.diallo@etu.univ-lehavre.fr.
 
@@ -21,10 +19,11 @@ Voici quelques-uns de mes projets :
 
 ## Éducation
 
-- Licence 3 Informatique à l'Université [du Havre] - [sept 2021] à ce jour.
+- Licence Informatique 
 
 ## Certifications
 
-- Certification PIX - [mai 2022].
+- Certification PIX.
+- ...
 
 N'hésitez pas à explorer mes projets et à me contacter si vous souhaitez discuter de collaborations ou de projets intéressants. 😄
