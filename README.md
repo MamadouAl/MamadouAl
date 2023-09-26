@@ -3,8 +3,8 @@
 
 ## À propos de moi
 
-- 💻 Passionné par l'informatique et la programmation.
-- 🌐 Compétences : HTML/CSS, Java, PHP, C, MySQL, PostgreSQL, Algorithmique etc.
+- 💻 Passionné par l'informatique, la programmation et la Cybersécurité.
+- 🌐 Compétences : HTML/CSS, Java, PHP, C, MySQL, PostgreSQL, Algorithmique, OS AWK etc.
 - 📚 Actuellement en train d'apprendre [...].
 - 🤝 Ouvert aux collaborations sur des projets passionnants.
 - 📫 Vous pouvez me contacter à mamadou-aliou.diallo@etu.univ-lehavre.fr.
@@ -19,11 +19,9 @@ Voici quelques-uns de mes projets :
 
 ## Éducation
 
-- Licence Informatique 
+- Licence Informatique...
 
-## Certifications
-
-- Certification PIX.
-- ...
+## OUTILS 💻
+- Eclipse, IntelliJ, DataGrip, Visual Studio Code, CLion, PhpStrom, Android Studio...
 
 N'hésitez pas à explorer mes projets et à me contacter si vous souhaitez discuter de collaborations ou de projets intéressants. 😄
