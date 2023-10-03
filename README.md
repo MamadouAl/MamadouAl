@@ -14,7 +14,7 @@
 ![Algorithmique](https://img.shields.io/badge/Algorithmique-4285F4?logo=google%20developers&logoColor=white)
 ![OS AWK](https://img.shields.io/badge/OS%20AWK-FFBB00?logo=gnu%20awk&logoColor=white)
 
-- 📚 Actuellement en train d'apprendre [...].
+- 📚 Actuellement en train d'apprendre  : Génie Logiciel, Algorithmique avancée, SGBD, OS, Théorie des langages, Architecture avancée, Interface Humain Machine, Réseaux, Programmation Web, Programmation scientifique ....
 - 🤝 Ouvert aux collaborations sur des projets passionnants.
 - 📫 Vous pouvez me contacter à mamadou-aliou.diallo@etu.univ-lehavre.fr.
 
