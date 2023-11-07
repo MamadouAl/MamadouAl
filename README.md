@@ -13,7 +13,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![Algorithmique](https://img.shields.io/badge/Algorithmique-4285F4?logo=google%20developers&logoColor=white)
 ![OS AWK](https://img.shields.io/badge/OS%20AWK-FFBB00?logo=gnu%20awk&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apache%20maven&logoColor=white)](https://maven.apache.org/)
+![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apache%20maven&logoColor=white)
 
 - 📚 Actuellement en train d'apprendre  : Génie Logiciel, Algorithmique avancée, SGBD, OS, Théorie des langages, Architecture avancée, Interface Humain Machine, Réseaux, Programmation Web, Programmation scientifique ....
 - 🤝 Ouvert aux collaborations sur des projets passionnants.
