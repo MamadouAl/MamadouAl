@@ -1,5 +1,8 @@
 # DIALLO Mamadou Al
-<img src="https://github.com/MamadouAl/MamadouAl/blob/main/public.avif" alt="Image de profil" width="150" height="150"> Bonjour ! 👋 Je suis Mad, étudiant en Licence 3 Informatique à l'Université du Havre.
+<img src="https://github.com/MamadouAl/MamadouAl/blob/main/public.avif" alt="Image de profil" width="150" height="150"> Bonjour ! 👋 Je suis MamadouAl, étudiant en Licence 3 Informatique à l'Université du Havre.
+
+## Portefolio
+![here](https://madaal.000webhostapp.com/)
 
 ## À propos de moi
 
@@ -15,18 +18,12 @@
 ![OS AWK](https://img.shields.io/badge/OS%20AWK-FFBB00?logo=gnu%20awk&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apache%20maven&logoColor=white)
 
-- 📚 Actuellement en train d'apprendre  : Génie Logiciel, Algorithmique avancée, SGBD, OS, Théorie des langages, Architecture avancée, Interface Humain Machine, Réseaux, Programmation Web, Programmation scientifique ....
+- 📚 Actuellement en train d'apprendre  : Génie Logiciel, Algorithmique avancée, SGBD, OS, Théorie des langages, Architecture avancée, Interface Humain Machine, Réseaux, Programmation Web(Symfony), Programmation scientifique ....
 - 🤝 Ouvert aux collaborations sur des projets passionnants.
 - 📫 Vous pouvez me contacter à mamadou-aliou.diallo@etu.univ-lehavre.fr.
 
 ## Projets
-
-Voici quelques-uns de mes projets :
-
-- [Emargent NFC](https://github.com/MamadouAl/Emargement-NFC) : L'objectif est de développer une application permettant de faire émarger les étudiants avec leur Léocarte (qui contient un identifiant nfc) pendant un examen et de fournir à la fin un fichier pdf. - téléphone avec capteur NFC nécessaire - base de données - utilisation d'une api pour générer un pdf.
-- [Labyrinthe](https://github.com/MamadouAl/Labyrinthe) : L'idée est d'écrire une première version séquentielle d'un algorithme de résolution de labyrinthe. Puis, l'objectif sera de paralléliser la résolution de l'algorithme en utilisant des threads .
-- [Flood it](https://github.com/MamadouAl/Flood-it) : ....
-
+Tous mes projets sont sur ce dépôt et sur le Gitlab de l'université du Havre dispo ![ici](https://www-apps.univ-lehavre.fr/forge/dm213333)
 ## Éducation
 
 - Licence Informatique...
