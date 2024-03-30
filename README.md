@@ -6,7 +6,7 @@
 
 ## À propos de moi
 
-- 💻 Passionné par l'informatique, la programmation et la Cybersécurité.
+- 💻 Passionné par le Développement informatique et la Cybersécurité.
 - 🌐 Compétences : 
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-FF5733?logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
