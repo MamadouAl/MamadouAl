@@ -2,7 +2,7 @@
 <img src="https://github.com/MamadouAl/MamadouAl/blob/main/public.avif" alt="Image de profil" width="150" height="150"> Bonjour ! 👋 Je suis MamadouAl, étudiant en Licence 3 Informatique à l'Université du Havre.
 
 ## Portefolio
-![here](https://mamadoual.github.io/)
+https://mamadoual.github.io/
 
 ## À propos de moi
 
