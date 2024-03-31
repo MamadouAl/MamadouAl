@@ -26,7 +26,7 @@ https://madaal.000webhostapp.com/index.html
 
 ## Projets
 Tous mes projets sont sur ce dépôt et sur le Gitlab de l'université du Havre dispo ![ici](https://www-apps.univ-lehavre.fr/forge/dm213333)
-## Éducation
+## Formation
 
 - Licence Informatique...
 
