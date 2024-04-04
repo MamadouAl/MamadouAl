@@ -1,7 +1,7 @@
 # DIALLO Mamadou Al
 <img src="https://github.com/MamadouAl/MamadouAl/blob/main/public.avif" alt="Image de profil" width="150" height="150"> Bonjour ! 👋 Je suis MamadouAl, étudiant en Licence 3 Informatique à l'Université du Havre.
 
-## Portefolio
+## Portfolio
 https://mamadoual.github.io/
 
 https://madaal.000webhostapp.com/index.html
