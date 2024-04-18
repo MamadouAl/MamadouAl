@@ -1,10 +1,17 @@
 # DIALLO Mamadou Al
-<img src="https://github.com/MamadouAl/MamadouAl/blob/main/public.avif" alt="Image de profil" width="150" height="150"> Bonjour ! 👋 Je suis MamadouAl, étudiant en Licence 3 Informatique à l'Université du Havre.
+
+<div style="text-align: center;">
+  <img src="https://github.com/MamadouAl/MamadouAl/blob/main/public.avif" alt="Image de profil" width="150" height="150">
+</div>
+
+Bonjour ! 👋 Je suis MamadouAl, étudiant en Licence 3 Informatique à l'Université du Havre.
 
 ## Portfolio
+https://madaal.000webhostapp.com/index.html
+
+
 https://mamadoual.github.io/
 
-https://madaal.000webhostapp.com/index.html
 
 ## À propos de moi
 
@@ -26,6 +33,7 @@ https://madaal.000webhostapp.com/index.html
 
 ## Projets
 Tous mes projets sont sur ce dépôt et sur le Gitlab de l'université du Havre dispo ![ici](https://www-apps.univ-lehavre.fr/forge/dm213333)
+Ou à retrouver sur mon portfolio
 ## Formation
 
 - Licence Informatique...
@@ -40,5 +48,7 @@ Tous mes projets sont sur ce dépôt et sur le Gitlab de l'université du Havre 
 ![PhpStorm](https://img.shields.io/badge/PhpStorm-000000?logo=phpstorm&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android%20studio&logoColor=white)
 [![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apache%20maven&logoColor=white)](https://maven.apache.org/)
+
+
 
 N'hésitez pas à explorer mes projets et à me contacter si vous souhaitez discuter de collaborations ou de projets intéressants. 😄
