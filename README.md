@@ -4,10 +4,10 @@
   <img src="https://github.com/MamadouAl/MamadouAl/blob/main/public.avif" alt="Image de profil" width="150" height="150">
 </div>
 
-Bonjour ! 👋 Je suis MamadouAl, étudiant en Licence 3 Informatique à l'Université du Havre.
+Bonjour ! 👋 Je suis MamadouAl, étudiant Master 1, Crypto et sécurité informatique, Université de Bordeaux.
 
 ## Portfolio
-https://madaal.000webhostapp.com/index.html
+https://madaal.000webhostapp.com/index.html (actuellement HS!)
 
 
 https://mamadoual.github.io/
